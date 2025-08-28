@@ -1,0 +1,6 @@
+{
+  "[erlang]": {
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false
+  }
+}
